@@ -1,0 +1,445 @@
+[
+  {
+    "marca": "Fiat ",
+    "modelo": "Sedan",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Fiat ",
+    "modelo": "Sedan",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 0
+  },
+  {
+    "marca": "Fiat ",
+    "modelo": "Sedan",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Fiat ",
+    "modelo": "Sedan",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 2
+  },
+  {
+    "marca": "Fiat ",
+    "modelo": "Sedan",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 2
+  },
+  {
+    "marca": "Fiat ",
+    "modelo": "Sedan",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 3
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CG 125",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 0,
+    "quantidadePassageiros": 1
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anoFabricacao": 2022,
+    "quantidadePortas": 4
+  }
+]
